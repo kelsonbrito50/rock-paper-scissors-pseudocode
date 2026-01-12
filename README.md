@@ -2,6 +2,7 @@
 
 ## Course Information
 - **Course:** Introduction to Front End Technologies
+- **Institution:** UC San Diego
 - **Author:** Kelson Brito Oliveira da Silva
 
 ## Project Description
